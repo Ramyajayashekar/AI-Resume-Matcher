@@ -52,6 +52,7 @@ streamlit run app.py
 * Semantic NLP Matching
 * Advanced ATS Scoring
 * AI-based Resume Recommendations
+Note: Sample resumes used for testing are not included in the repository.
 
 ## Author
 
